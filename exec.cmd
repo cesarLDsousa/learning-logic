@@ -1,2 +1,2 @@
-call g++ .\src\main.cpp -o main.exe
+call g++ .\first-program\main.cpp -o main.exe
 call .\main.exe
