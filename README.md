@@ -1,2 +1,1 @@
-# college-exercises
-Learning logic with C++ problems!
+##Learning logic with C++ problems!
