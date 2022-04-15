@@ -14,11 +14,11 @@ int main() {
         std::cin >> number;
         std::cin.ignore();
 
-        std::cout << "Do u wanna inform another value? " << std:: endl;
+        std::cout << "Do u wanna inform another value? [Y/N] " << std:: endl;
         std::cin >> answer;
         answer = toupper(answer);
         
-    } while(answer == 'S');
+    } while(answer == 'Y');
 
     return 0;
 }
